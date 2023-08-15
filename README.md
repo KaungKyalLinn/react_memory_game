@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+this trainning project is base on the net ninja youtube channel, react memory game playlist... 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
